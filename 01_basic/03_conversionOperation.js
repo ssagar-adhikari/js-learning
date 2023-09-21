@@ -1,11 +1,11 @@
 let score = 33
 score = "33a"
-console.log(typeof score);
-console.log(typeof(score))
+// console.log(typeof score);
+// console.log(typeof(score))
 
 let valueInNumber = Number(score)
-console.log(typeof valueInNumber)
-console.log(valueInNumber)
+// console.log(typeof valueInNumber)
+// console.log(valueInNumber)
 //conversion to number
 
 //"33" => 33 treat as a number
@@ -16,7 +16,7 @@ console.log(valueInNumber)
 
 let isLoggedIn = undefined
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn)
+// console.log(booleanIsLoggedIn)
 
 //Conversion to boolean
 
@@ -29,5 +29,7 @@ console.log(booleanIsLoggedIn)
 //To String conversion
 let num = 33
 let stringValue = String(num)
-console.log(typeof stringValue)
-console.log(stringValue)
+// console.log(typeof stringValue)
+// console.log(stringValue)
+
+// ****************************Operations*************************
